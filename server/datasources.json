@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mlab": {
+    "host": "ds237563.mlab.com",
+    "port": 37563,
+    "url": "mongodb://agenda_user:a123456@ds237563.mlab.com:37563/agenda_db",
+    "database": "agenda_db",
+    "password": "a123456",
+    "name": "mlab",
+    "user": "agenda_user",
+    "connector": "mongodb"
+  }
+}
